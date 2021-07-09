@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+}
+
+table {
+	width: 400px;
+	border: 1px solid #696969;
+	border-collapse: collapse;
+	margin:0 auto;
+}
+th {
+	border: 1px solid #696969;
+	background-color: #FFF8DC;
+}
+td {
+	text-align: center;
+	border: 1px solid #696969;
+	height: 50px;
+	background-color: #E0FFFF;
+}
+input {
+	font-size: 20px;
+}
